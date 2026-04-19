@@ -1,0 +1,49 @@
+{
+  "goals": [
+    {
+      "id": "goal_investment",
+      "title": "Reach $1M USD net worth by age 40",
+      "description": "Investment portfolio growth via Nanovest — US ETFs, tech/defense/energy stocks, gold savings",
+      "target_date": "~2033",
+      "status": "active",
+      "progress_notes": [],
+      "last_checked": null
+    },
+    {
+      "id": "goal_director",
+      "title": "Secure Director-level role with appropriate title and compensation",
+      "description": "Currently in pre-offer stage for Director of Marketing Services at Mastercard Indonesia. EY ASEAN role as parallel optionality.",
+      "target_date": "2025",
+      "status": "active",
+      "progress_notes": [],
+      "last_checked": null
+    },
+    {
+      "id": "goal_linkedin",
+      "title": "Publish 5 LinkedIn posts per week",
+      "description": "Personal brand building through consistent insight-led content",
+      "target_date": "ongoing",
+      "status": "active",
+      "progress_notes": [],
+      "last_checked": null
+    },
+    {
+      "id": "goal_berkelas",
+      "title": "Ship BERKELAS",
+      "description": "Claude-powered PPTX builder tool — complete and launch",
+      "target_date": null,
+      "status": "active",
+      "progress_notes": [],
+      "last_checked": null
+    },
+    {
+      "id": "goal_content_system",
+      "title": "Build content system pipeline",
+      "description": "LinkedIn posts, newsletter, and course content — systematized production",
+      "target_date": null,
+      "status": "active",
+      "progress_notes": [],
+      "last_checked": null
+    }
+  ]
+}

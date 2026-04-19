@@ -1,0 +1,37 @@
+{
+  "role": {
+    "title": "Senior Manager & Practice Lead, Data-led Marketing & Social Commerce",
+    "company": "Accenture Song Indonesia",
+    "level": "Operating at director-level capacity",
+    "team_size": 6,
+    "context": "Asked internally to lead Accenture Song Indonesia without formal title change or compensation adjustment"
+  },
+  "career": {
+    "active_opportunity_1": "Pre-offer stage, Director of Marketing Services at Mastercard Indonesia. Recruiter: Loan.",
+    "active_opportunity_2": "Inbound from EY for ASEAN-level role — held as parallel optionality",
+    "target": "Director-level role with appropriate title and compensation",
+    "status": "Active negotiation — Mastercard primary, EY secondary"
+  },
+  "active_projects": {
+    "BERKELAS": {
+      "description": "Claude-powered PPTX builder tool",
+      "status": "In development"
+    },
+    "MANSA": {
+      "description": "Personal second brain bot",
+      "status": "Being built"
+    },
+    "linkedin_content": {
+      "description": "Personal brand building",
+      "target": "5 posts/week",
+      "status": "Active"
+    },
+    "content_system": {
+      "description": "LinkedIn posts, newsletter, course content pipeline",
+      "status": "Planning"
+    }
+  },
+  "current_priorities": [],
+  "direct_reports_context": "Carol (promotion push), Andra and Adra Gesza (salary advocacy)",
+  "notes": ""
+}

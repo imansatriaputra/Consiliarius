@@ -1,0 +1,74 @@
+{
+  "Malcolm": {
+    "relationship": "Mastercard interviewer",
+    "company": "Mastercard Indonesia",
+    "context": "Interviewed Iman for Director of Marketing Services role",
+    "last_interaction": null,
+    "notes": "",
+    "last_updated": "2025-04-19T00:00:00"
+  },
+  "Bjorn": {
+    "relationship": "Mastercard contact",
+    "company": "Mastercard Indonesia",
+    "context": "Connected to Mastercard Indonesia opportunity",
+    "last_interaction": null,
+    "notes": "",
+    "last_updated": "2025-04-19T00:00:00"
+  },
+  "Kezia": {
+    "relationship": "Mastercard contact",
+    "company": "Mastercard Indonesia",
+    "context": "Part of Mastercard Indonesia team, connected to Director opportunity",
+    "last_interaction": null,
+    "notes": "",
+    "last_updated": "2025-04-19T00:00:00"
+  },
+  "Loan": {
+    "relationship": "Recruiter",
+    "company": "Mastercard (external recruiter)",
+    "context": "Handling Iman's recruitment for Director of Marketing Services at Mastercard Indonesia. Last context: requested payslip documentation. Compensation anchoring decision pending.",
+    "last_interaction": null,
+    "notes": "",
+    "last_updated": "2025-04-19T00:00:00"
+  },
+  "Simo Morandi": {
+    "relationship": "Regional MD",
+    "company": "Accenture Song",
+    "context": "Regional Managing Director at Accenture. Key stakeholder in Iman's internal positioning.",
+    "last_interaction": null,
+    "notes": "",
+    "last_updated": "2025-04-19T00:00:00"
+  },
+  "Ahmed": {
+    "relationship": "Mentor",
+    "company": "Standard Chartered / SC Ventures Singapore",
+    "context": "Senior mentor figure. Based in Singapore. Provides high-level strategic career guidance.",
+    "last_interaction": null,
+    "notes": "",
+    "last_updated": "2025-04-19T00:00:00"
+  },
+  "Carol": {
+    "relationship": "Direct report",
+    "company": "Accenture Song Indonesia",
+    "context": "On promotion push. Iman is advocating for her advancement.",
+    "last_interaction": null,
+    "notes": "",
+    "last_updated": "2025-04-19T00:00:00"
+  },
+  "Andra": {
+    "relationship": "Direct report",
+    "company": "Accenture Song Indonesia",
+    "context": "Iman is advocating for salary adjustment.",
+    "last_interaction": null,
+    "notes": "",
+    "last_updated": "2025-04-19T00:00:00"
+  },
+  "Adra Gesza": {
+    "relationship": "Direct report",
+    "company": "Accenture Song Indonesia",
+    "context": "Iman is advocating for salary adjustment.",
+    "last_interaction": null,
+    "notes": "",
+    "last_updated": "2025-04-19T00:00:00"
+  }
+}
